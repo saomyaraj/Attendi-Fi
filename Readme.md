@@ -25,13 +25,17 @@ Campus-Sync is a comprehensive solution for tracking student attendance. This pr
 
 1. Make sure you have a suitable development environment.
 2. Clone this repository to your local machine using the following command:
-        ```bash
-        git clone <https://github.com/saomyaraj812/Campus-Sync.git>
+
+```bash
+git clone <https://github.com/saomyaraj812/Campus-Sync.git>
+```
 
 3. Navigate to the project directory and install the necessary dependencies:
-        ```bash
-        cd attendance-management
-        pip install -r requirements.txt
+
+```bash
+cd attendance-management
+pip install -r requirements.txt
+```
 
 ## Usage
 
