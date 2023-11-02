@@ -1,8 +1,8 @@
-# Campus-Sync
+# Attendi-Fi
 
 ## Overview
 
-Campus-Sync is a comprehensive solution for tracking student attendance. This project enables professors to manage attendance records for multiple subjects and students, providing an efficient and accurate way to monitor student attendance.
+Attendi-Fi is a comprehensive solution for tracking student attendance. This project enables professors to manage attendance records for multiple subjects and students, providing an efficient and accurate way to monitor student attendance.
 
 ## Features
 
