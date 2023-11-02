@@ -23,14 +23,14 @@ Attendi-Fi is a comprehensive solution for tracking student attendance. This pro
 
 ## Setup
 
-1. Make sure you have a suitable development environment.
-2. Clone this repository to your local machine using the following command:
+A. Make sure you have a suitable development environment.
+B. Clone this repository to your local machine using the following command:
 
 ```bash
 git clone <https://github.com/saomyaraj812/Campus-Sync.git>
 ```
 
-3. Navigate to the project directory and install the necessary dependencies:
+C. Navigate to the project directory and install the necessary dependencies:
 
 ```bash
 cd attendance-management
